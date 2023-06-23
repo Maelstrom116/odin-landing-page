@@ -125,26 +125,21 @@ img {
 .quote {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #E5E7EB;
     height: 12em;
-
 }
 
 .quote-body {
-    display: flex;
-    flex-direction: column;
     color: #1F2937;
     font-style: italic;
     font-size: 36px;
     text-align: center;
-    max-width: 750px;
-    justify-content: center;
-    align-items: center;
+    max-width: 650px;
 }
 
 .quote-author {
-    display: flex;
-    justify-content: end;
     margin-right: 50px;
     color: #1F2937;
     font-weight: bold;
