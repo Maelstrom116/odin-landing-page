@@ -4,9 +4,7 @@ body {
     flex-direction: column;
     font-family: Roboto, sans-serif;
     width: 900px;
-    /*background-color: #1F2937;*/
-    /*margin-left: 25%;
-    margin-right: 25%*/
+    margin: auto;
 }
 
 .heading{
@@ -146,6 +144,7 @@ img {
     display: flex;
     justify-content: end;
     padding-right: 100px;
+    padding-bottom: 50px;
     align-items: baseline;
     background-color: #E5E7EB;
     color: #1F2937;
